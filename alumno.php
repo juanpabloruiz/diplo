@@ -70,7 +70,7 @@ $get = $_GET['id'];
 					<br>
 					<br>
 					<br>
-					<br>
+
 
 					Corrientes, 19 de Junio de 2019
 
@@ -83,9 +83,6 @@ $get = $_GET['id'];
 
 
 	</div>
-
-
-
 
 </body>
 </html>
